@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_And_Assignment_LINQ_Task2", "Demo_And_Assignment_LINQ_Task2\Demo_And_Assignment_LINQ_Task2.csproj", "{AF55A6F9-DBD3-4EE0-ABA8-19273CAB74D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_LINQ_Task2", "Assignment_LINQ_Task2\Assignment_LINQ_Task2.csproj", "{DBF86953-1514-44DD-90AA-1595E2C73EA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF55A6F9-DBD3-4EE0-ABA8-19273CAB74D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF55A6F9-DBD3-4EE0-ABA8-19273CAB74D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF55A6F9-DBD3-4EE0-ABA8-19273CAB74D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF55A6F9-DBD3-4EE0-ABA8-19273CAB74D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBF86953-1514-44DD-90AA-1595E2C73EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBF86953-1514-44DD-90AA-1595E2C73EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBF86953-1514-44DD-90AA-1595E2C73EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBF86953-1514-44DD-90AA-1595E2C73EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A05BEB6-65CE-4F96-A4DF-D04C37B7422E}
+	EndGlobalSection
+EndGlobal
